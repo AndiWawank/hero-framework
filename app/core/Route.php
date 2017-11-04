@@ -10,7 +10,8 @@
 
       if( isset($_GET['url']) ){
         $url = explode('/', filter_var(trim($_GET['url']), FILTER_SANITIZE_URL )); //Ngefilter url jika ada karakter aneh
-        $url[0] = $url[0] .'Controller';
+        $urlUp  = ucfirst($url[0]);
+        $url[0] = $urlUp .'Controller';
       }else{
         return require_once '../app/views/index.php';
       }
