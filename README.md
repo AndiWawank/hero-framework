@@ -7,4 +7,4 @@ my php framework
 * Ketika memanggil nama controller di url harus diawali dengan huruf kapital karena url nya masih uppercase
 
 ##### Screenshot crud simple!
-![Screenshots](https://lh4.googleusercontent.com/qP_4D7_kbmftSlffflihzx_5SqtCBsICuQsGEZII4P82rkW250W98SpyTJWMCqscuLkIyUmK4LGYeUoooC0A=w1366-h643)
+![Screenshots](https://3.bp.blogspot.com/-gsoTzJoQt2w/Wf8yOHXF4lI/AAAAAAAAAb8/-L71r1U87pAjMYRWfcdK1kTJt0s1SMEwwCLcBGAs/s320/Screenshot-2017-11-3%2BHalo.png)
